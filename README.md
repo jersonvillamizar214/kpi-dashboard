@@ -1,5 +1,7 @@
 # KPI Dashboard — Business Analytics
 
+[![CI](https://github.com/jersonvillamizar214/kpi-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/jersonvillamizar214/kpi-dashboard/actions/workflows/ci.yml)
+
 An interactive business-intelligence dashboard built with **Next.js** and **hand-crafted SVG charts** (no charting library). It visualizes revenue, orders, customers and average order value for a fictional retailer, with breakdowns by category and region.
 
 > Part of my developer portfolio. Focus: data visualization, dashboard UX, and clean data-aggregation logic.
