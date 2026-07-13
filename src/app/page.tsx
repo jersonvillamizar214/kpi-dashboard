@@ -20,7 +20,7 @@ export default async function Dashboard({
       {/* Header */}
       <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
         <div>
-          <p className="text-sm font-medium text-indigo-400">Copower Retail</p>
+          <p className="text-sm font-medium text-indigo-400">Northwind Retail</p>
           <h1 className="mt-1 text-2xl font-bold tracking-tight">
             Dashboard de indicadores
           </h1>

@@ -1,4 +1,4 @@
-// Deterministic synthetic dataset for a fictional retail company ("Copower Retail").
+// Deterministic synthetic dataset for a fictional retail company ("Northwind Retail").
 // Orders are generated order-by-order with a seeded PRNG so the numbers are stable
 // across renders, then aggregated in metrics.ts — the same shape as querying a real
 // database with GROUP BY / SUM.
